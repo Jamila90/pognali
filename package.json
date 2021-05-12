@@ -13,7 +13,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-watch": "^5.0.1",
-    "postcss": "^7.0.27"
+    "postcss": "^8.2.10"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
